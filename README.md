@@ -14,7 +14,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 # Data Flow 
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/774c5675-e170-47ab-84ed-3d1c6562136d" />
+<img width="1147" height="783" alt="Image" src="https://github.com/user-attachments/assets/fa648cff-4351-4c61-b7d5-cf7beec083d0" />
 
 # 📖 Project Overview
 
